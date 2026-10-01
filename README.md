@@ -1,2 +1,2 @@
 # wdic
-smegma
+Das ist ein Test
